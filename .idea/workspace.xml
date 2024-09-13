@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="685e8e0d-a603-4594-9191-3765478f438f" name="Changes" comment="First commit.">
-      <change afterPath="$PROJECT_DIR$/fnt/ModernDOS9x16.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/level_editor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snd/snow_step_dry-01.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snd/snow_step_dry-02.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snd/snow_step_dry-03.flac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snd/snow_step_dry-04.flac" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -45,6 +47,7 @@
       <recent name="C:\Users\New\PycharmProjects\Textroom\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\New\PycharmProjects\Textroom\snd" />
       <recent name="C:\Users\New\PycharmProjects\Textroom\fnt" />
     </key>
   </component>

@@ -1,15 +1,21 @@
-import os
-import shutil
-from pygame import *
+import os, shutil, pygame
+from random import randint
 
-init()
-font.init()
+pygame.init()
+pygame.font.init()
+pygame.init()
 
-dos = font.Font("fnt/ModernDOS9x16.ttf", 45)
-dos_small = font.Font("fnt/ModernDOS9x16.ttf", 20)
-dos_smaller = font.Font("fnt/ModernDOS9x16.ttf", 10)
+walk = pygame.mixer.Sound("snd/snow_step_dry-01.flac")
+fnt = "fnt/ModernDOS9x16.ttf"
+door = "img/Doorright.png"
 
-screen = display.set_mode((1200, 1000))
+locker = pygame.image.load("img/locker.png")
+
+dos = pygame.font.Font(fnt, 45)
+dos_small = pygame.font.Font(fnt, 20)
+dos_smaller = pygame.font.Font(fnt, 10)
+
+screen = pygame.display.set_mode((1200, 1000))
 
 tile_size = 100
 
@@ -63,13 +69,13 @@ level = 0
 
 def draw_grid():
     for line in range(0, 12):
-        draw.line(screen, (255, 255, 255), (0, line * tile_size), (1200, line * tile_size))
-        draw.line(screen, (255, 255, 255), (line * tile_size, 0), (line * tile_size, 1000))
+        pygame.draw.line(screen, (255, 255, 255), (0, line * tile_size), (1200, line * tile_size))
+        pygame.draw.line(screen, (255, 255, 255), (line * tile_size, 0), (line * tile_size, 1000))
 
 
 class Player:
     def __init__(self, x, y):
-        self.image = transform.scale(image.load("img/Doorright.png"), (40, 80))
+        self.image = pygame.transform.scale(pygame.image.load(door), (40, 80))
         self.rect = self.image.get_rect()
         self.rect.x = x
         self.rect.y = y
@@ -81,18 +87,18 @@ class Player:
         dx = 0
         dy = 0
 
-        keys = key.get_pressed()
-        if keys[K_a]:
+        keys = pygame.key.get_pressed()
+        if keys[pygame.K_a]:
             dx -= 0.51
-        if keys[K_d]:
+        if keys[pygame.K_d]:
             dx += 0.51
-        if keys[K_w]:
+        if keys[pygame.K_w]:
             dy -= 0.51
-        if keys[K_s]:
+        if keys[pygame.K_s]:
             dy += 0.51
-        if not keys[K_a] and not keys[K_d]:
+        if not keys[pygame.K_a] and not keys[pygame.K_d]:
             dx = 0
-        if not keys[K_w] and not keys[K_s]:
+        if not keys[pygame.K_w] and not keys[pygame.K_s]:
             dy = 0
 
         for tile in world.tile_list:
@@ -106,14 +112,14 @@ class Player:
         self.rect.y += dy
 
         screen.blit(self.image, self.rect)
-        draw.rect(screen, (255, 255, 255), self.rect, 2)
+        pygame.draw.rect(screen, (255, 255, 255), self.rect, 2)
 
 
 class World:
     def __init__(self, data):
         self.tile_list = []
 
-        darklog = image.load('img/grass.png')
+        darklog = pygame.image.load('img/grass.png')
 
         row_count = 0
         for row in data:
@@ -126,15 +132,15 @@ class World:
                     dooor = Door(col_count * 100, row_count * 100, "right")
                     door_group.add(dooor)
                 if tile == "/":
-                    img = transform.scale(darklog, (tile_size, tile_size))
+                    img = pygame.transform.scale(darklog, (tile_size, tile_size))
                     img_rect = img.get_rect()
                     img_rect.x = col_count * tile_size
                     img_rect.y = row_count * tile_size
                     tile = (img, img_rect)
                     self.tile_list.append(tile)
                 if tile == "§":
-                    locker = Locker(col_count * 100, row_count * 100)
-                    locker_group.add(locker)
+                    locke = Locker(col_count * 100, row_count * 100)
+                    locker_group.add(locke)
                 col_count += 1
             row_count += 1
 
@@ -143,67 +149,106 @@ class World:
             screen.blit(tile[0], tile[1])
 
 
-class Door(sprite.Sprite):
+class Door(pygame.sprite.Sprite):
     def __init__(self, x, y, direction):
-        sprite.Sprite.__init__(self)
+        pygame.sprite.Sprite.__init__(self)
         if direction == "left":
-            img = image.load("img/Doorright.png")
-            self.image = transform.scale(img, (100, 100))
+            img = pygame.image.load(door)
+            self.image = pygame.transform.scale(img, (100, 100))
         if direction == "right":
-            img = image.load("img/Doorleft.png")
-            self.image = transform.scale(img, (100, 100))
+            img = pygame.image.load("img/Doorleft.png")
+            self.image = pygame.transform.scale(img, (100, 100))
         self.rect = self.image.get_rect()
         self.rect.x = x
         self.rect.y = y
 
 
-class Locker(sprite.Sprite):
+class Locker(pygame.sprite.Sprite):
     def __init__(self, x, y):
-        sprite.Sprite.__init__(self)
-        img = image.load("img/Doorright.png")
-        self.image = transform.scale(img, (100, 100))
+        pygame.sprite.Sprite.__init__(self)
+        img = pygame.image.load("img/lockr.png")
+        self.image = pygame.transform.scale(img, (100, 100))
         self.rect = self.image.get_rect()
         self.rect.x = x
         self.rect.y = y
 
 
-
-
-door_group = sprite.Group()
-locker_group = sprite.Group()
+door_group = pygame.sprite.Group()
+locker_group = pygame.sprite.Group()
 
 world = World(room)
 player = Player(580, 800)
 
+guard = False
+
+stage = "room"
+i = 0
 run = True
 while True:
-    screen.fill((0, 0, 0))
-    world.draw()
-    player.update()
-    door_group.draw(screen)
-    locker_group.draw(screen)
+    if guard:
+        if i == 0:
+            walk.set_volume(0)
+            walk.play()
+        i += 1
+        walk.set_volume(walk.get_volume() + 0.065)
+        if i == 1000:
+            if stage != "locker":
+                stage = "found"
+            else:
+                guard = False
+                i = 0
+                walk.fadeout(3)
 
-    draw_grid()
+    if not guard:
+        walk.set_volume(0)
 
-    for e in event.get():
-        if e.type == QUIT:
-            exit()
+    if stage == "room":
+        screen.fill((0, 0, 0))
+        world.draw()
+        player.update()
+        door_group.draw(screen)
+        locker_group.draw(screen)
 
-    if sprite.spritecollide(player, locker_group, False):
-        Enter_Locker = dos.render("Press space to enter the locker.", True, (175, 175, 175))
-        screen.blit(Enter_Locker, (125, 800))
+        draw_grid()
 
-    if sprite.spritecollide(player, door_group, False):
-        level += 1
-        door_group.empty()
-        locker_group.empty()
-        player.rect.x = 580
-        player.rect.y = 800
-        if level == 1:
-            world = World(room1)
-        elif level == 2:
-            world = World(room2)
-        elif level == 3:
-            world = World(room3)
+        for e in pygame.event.get():
+            if e.type == pygame.QUIT:
+                exit()
+            elif e.type == pygame.KEYDOWN and e.key == pygame.K_SPACE and pygame.sprite.spritecollide(player, locker_group, False):
+                print("Lock")
+                stage = "locker"
 
-    display.update()
+        if pygame.sprite.spritecollide(player, locker_group, False):
+            Enter_Locker = dos.render("Press space to enter the locker.", True, (175, 175, 175))
+            screen.blit(Enter_Locker, (125, 800))
+
+        if pygame.sprite.spritecollide(player, door_group, False):
+            if level != 0 or level != 1:
+                guard_go = randint(1, 6)
+                if guard_go == 1:
+                    print("hide")
+                    guard = True
+            level += 1
+            door_group.empty()
+            locker_group.empty()
+            player.rect.x = 580
+            player.rect.y = 800
+            if level == 1:
+                world = World(room1)
+            elif level == 2:
+                world = World(room2)
+            elif level == 3:
+                world = World(room3)
+
+            print(level)
+
+    elif stage == "locker":
+        for e in pygame.event.get():
+            if e.type == pygame.QUIT:
+                exit()
+            elif e.type == pygame.KEYDOWN and e.key == pygame.K_ESCAPE:
+                stage = "room"
+
+        screen.blit(locker, (0, 0))
+
+    pygame.display.update()
