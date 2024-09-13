@@ -130,4 +130,1060 @@ f  f  f  f f fCfX  f+ f+ f  f+  f+ g
   E#
   E#
   E#
-                  &       M o u n t P o i n t M a n a g e r R e m o t e D a t a b a s e                          yG                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+                  &       M o u n t P o i n t M a n a g e r R e m o t e D a t a b a s e                          yG                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+MZђ       яя  ё       @                                   А   є ґ	Н!ёLН!This program cannot be run in DOS mode.
+$       ЭфЩ™|љЉ™|љЉ™|љЉ‡.Љ|љЉ‡.
+Љ|љЉRich™|љЉ                        PE  L RљоH        а "!
+	      Њ                                              Ж  @                                      м‹           Ћ  h%                                                                                          .rsrc    ђ      Њ                 @  @                                             0 Ђ0  Ђ
+   H  Ђ   `  Ђ   x  Ђ                 ђ  Ђ                 Ё  Ђ                 А  Ђ              8 ЂШ  Ђ              	  р                 	                   	                  	     P  ё   д        њ>  д      ¤P  Ђ  д      $T  ИG  д       M U I 
+ M E M T E S T . X S L НюНюё                     e\1О‡™}®’(·;NdиТБмґЊЄ2Л
+чсH                        €                            Ё                  M U I           
+             e n - U S          y  0y  @   3y  oy  |  vy  „y  ¬  †y  ”y   "  –y  Фy  ё&  $  M T _ M S G _ F I R S T 
+ 
+     |  I n t e r n a l   e r r o r :   t h e   c h e c k e r b o a r d   d i m e n s i o n   i s   t o o   l a r g e . 
+ 
+     „  I n t e r n a l   e r r o r :   b a d   p a r a m e t e r s   t o   D e v i c e G e t O v e r l a p S u b r a n g e s . 
+ 
+        I n t e l   P I I X 4 
+ 
+   ,  I n t e l   8 2 8 0 1 A A   I C H 
+ 
+   0  I n t e l   8 2 8 0 1 A B   I C H 0 
+ 
+     0  I n t e l   8 2 8 0 1 B A   I C H 2 
+ 
+     0  I n t e l   8 2 8 0 1 E   C - I C H 
+ 
+     0  I n t e l   8 2 8 0 1 C A   I C H 3 
+ 
+     0  I n t e l   8 2 8 0 1 D B   I C H 4 
+ 
+     8  I n t e l   8 2 4 4 3 B X   w i t h   A G P 
+ 
+     <  I n t e l   8 2 4 4 3 B X   w i t h o u t   A G P 
+ 
+   8  I n t e l   8 2 4 4 3 G X   w i t h   A G P 
+ 
+     <  I n t e l   8 2 4 4 3 G X   w i t h o u t   A G P 
+ 
+      I n t e l   8 2 8 4 5 
+ 
+   \  I n t e r n a l   e r r o r :   m a l f o r m e d   S P D   h i e r a r c h y . 
+ 
+     x  I n t e r n a l   e r r o r :   m a l f o r m e d   m e m o r y   c o n t r o l l e r   h i e r a r c h y . 
+ 
+     p  I n t e r n a l   e r r o r :   B u f f e r P o s   c a l l e d   o n   a   N U L L   b u f f e r . 
+ 
+     p  I n t e r n a l   e r r o r :   o v e r f l o w   i n   M t S c r e e n F l i p A t t r i b u t e . 
+ 
+     |  I n t e r n a l   e r r o r :   b a d   p a r a m e t e r s   t o   M t S c r e e n F l i p A t t r i b u t e . 
+ 
+     њ  I n t e r n a l   e r r o r :   M t S c r e e n B u f f e r P r i n t R e g i o n   c a l l e d   o n   a   s c r o l l a b l e   s c r e e n . 
+ 
+     њ  I n t e r n a l   e r r o r :   M t S c r e e n B u f f e r P r i n t E x   c a l l e d   o n   a   n o n - s c r o l l a b l e   s c r e e n . 
+ 
+     t  I n t e r n a l   e r r o r :   s t r c h r   r e t u r n e d   a   m e a n i n g l e s s   v a l u e . 
+ 
+     ”  I n t e r n a l   e r r o r :   M t S c r e e n B u f f e r P r i n t A t   c a l l e d   o n   a   s c r o l l a b l e   s c r e e n . 
+ 
+     d  I n t e r n a l   e r r o r :   m e a n i n g l e s s   s t r i d e   v a l u e   % d . 
+ 
+     h  I n t e r n a l   e r r o r :   G D T   a n d   I D T   a r e   n o t   c o n t i g u o u s . 
+ 
+   „  I n t e r n a l   e r r o r :   G D T   a n d   L D T   a r e   t o o   l a r g e   f o r   l o c a l   s t o r a g e . 
+ 
+     X  I n t e r n a l   e r r o r :   i n v a l i d   S U   r e l o c a t i o n . 
+ 
+     t  I n t e r n a l   e r r o r :   c a n ' t   l o c a t e   % l x   i n   D e r e g i s t e r F i x u p . 
+ 
+     H  I n t e r n a l   e r r o r :   o u t   o f   m e m o r y . 
+ 
+     h  I n t e r n a l   e r r o r :   a p p e n d e d   b u f f e r s   a r e   t o o   l a r g e . 
+ 
+   d  I n t e r n a l   e r r o r :   i m a g e   r e l o c a t i o n   f a i l e d :   % s . 
+ 
+       C o n f l i c t 
+ 
+       I n v a l i d 
+ 
+     U n k n o w n 
+ 
+   0 T h e r e   i s   n o   r o o m   i n   m e m o r y   f o r   t h i s   c o p y   o f   t h e   m e m o r y   d i a g n o s t i c .   T h i s 
+ 
+ i n d i c a t e s   t h a t   t h e   s y s t e m   d o e s n ' t   h a v e   e n o u g h   m e m o r y   t o   r u n   t h i s   p r o g r a m . 
+ 
+       E 8 2 0   ( 1 ) 
+ 
+       E 8 2 0   ( 2 ) 
+ 
+       E 8 2 0   ( 3 ) 
+ 
+     \  I n t e r n a l   e r r o r :   u n r e c o g n i z e d   m e m o r y   m a p . 
+ 
+     d  I n t e r n a l   e r r o r :   b a d   p a r a m e t e r s   t o   P C I C o n f i g . 
+ 
+     \  I n t e r n a l   e r r o r :   u n k n o w n   P C I   a c c e s s   t y p e . 
+ 
+     4  M A T S +   ( c a c h e   e n a b l e d ) 
+ 
+     I N V C 
+ 
+     8  S t r i d e 6   ( c a c h e   e n a b l e d ) 
+ 
+     S t r i d e 3 8 
+ 
+     8  S C H C K R   ( c a c h e   e n a b l e d ) 
+ 
+       C H C K R 2 
+ 
+       C H C K R 3 
+ 
+       C H C K R 4 
+ 
+       C H C K R 8 
+ 
+     8  M A T S +   ( c a c h e   d i s a b l e d ) 
+ 
+     <  S t r i d e 6   ( c a c h e   d i s a b l e d ) 
+ 
+     8  S C H C K R   ( c a c h e   d i s a b l e d ) 
+ 
+   „  I d e n t i f i e s   m o s t   b a s i c   f a u l t s   u s i n g   w a l k i n g   o n e s 
+ 
+ a n d   z e r o e s . 
+ 
+     њ  P e r f o r m s   o n e   a n d   z e r o   f i l l s   i n   o r d e r   t o   l o c a t e 
+ 
+ i n v e r s e   c o u p l i n g   f a u l t s . 
+ 
+       U s e s   a   s t r i d e - 6   p a t t e r n   t o   s i m u l a t e   a   c h e c k e r b o a r d 
+ 
+ o f   o n e s   a n d   z e r o e s . 
+ 
+   њ  U s e s   a   s t r i d e - 3 8   p a t t e r n   t o   s i m u l a t e   a   c h e c k e r b o a r d 
+ 
+ o f   o n e s   a n d   z e r o e s . 
+ 
+     X  A p p l i e s   a   s i m p l e   c h e c k e r b o a r d   p a t t e r n . 
+ 
+     d  A p p l i e s   a   2 x 2   e x t e n d e d   c h e c k e r b o a r d   p a t t e r n . 
+ 
+     d  A p p l i e s   a   3 x 3   e x t e n d e d   c h e c k e r b o a r d   p a t t e r n . 
+ 
+     d  A p p l i e s   a   4 x 4   e x t e n d e d   c h e c k e r b o a r d   p a t t e r n . 
+ 
+     d  A p p l i e s   a   8 x 8   e x t e n d e d   c h e c k e r b o a r d   p a t t e r n . 
+ 
+     Ђ  I n t e r n a l   e r r o r :   t r i e d   t o   s w i t c h   t o   a   z e r o   l e n g t h   t e s t   l i s t . 
+ 
+   P  I n t e r n a l   e r r o r :   t e s t   l i s t   i s   e m p t y . 
+ 
+   D  T u r n   o n   c a c h i n g   f o r   a l l   t e s t s 
+ 
+   H  T u r n   o f f   c a c h i n g   f o r   a l l   t e s t s 
+ 
+     H  U s e   t h e   d e f a u l t   c a c h e   s e t t i n g s 
+ 
+     H  R e s t o r e   t h e   d e f a u l t   m e m o r y   m a p . 
+ 
+   t  E 8 2 0   ( 2 ) .   T h i s   i s   t h e   s t a n d a r d   E 8 2 0 - b a s e d   m e m o r y   m a p . 
+ 
+   h E 8 2 0   ( 3 ) .   T h i s   i s   a n   e x t e n d e d   E 8 2 0 - b a s e d   m a p .   T h i s   m a p   m o r e   f u l l y   t e s t s 
+ 
+         t h e   m e m o r y   u s e d   b y   t h e   t e s t   p r o g r a m .   H o w e v e r ,   e a c h   t e s t   w i l l   t a k e 
+ 
+         a b o u t   t w i c e   a s   l o n g   t o   r u n . 
+ 
+   <  R u n   t h e   b a s i c   t e s t   s u i t e 
+ 
+     @  R u n   t h e   s t a n d a r d   t e s t   s u i t e 
+ 
+   @  R u n   t h e   e x t e n d e d   t e s t   s u i t e 
+ 
+   <  B u i l d   a   c u s t o m   t e s t   s u i t e 
+ 
+   @  V i e w   t h e   a c t i v e   t e s t   s u i t e 
+ 
+     4  C h a n g e   c a c h e   s e t t i n g s 
+ 
+   4  C h a n g e   t h e   m e m o r y   m a p 
+ 
+   4  C h a n g e   t h e   t e s t   s u i t e 
+ 
+   D  V i e w   e r r o r s   b y   m e m o r y   m o d u l e 
+ 
+     0  V i e w   e r r o r s   b y   t e s t 
+ 
+   8  V i e w   s y s t e m   i n f o r m a t i o n 
+ 
+   ,  A d v a n c e d   o p t i o n s 
+ 
+     (  E n t e r   s e l e c t i o n 
+ 
+   @  R e t u r n   t o   t h e   p r e v i o u s   m e n u 
+ 
+   Ђ  ` % s '   i s   n o t   a   r e c o g n i z e d   o p t i o n .   P r e s s   a n y   k e y   t o   c o n t i n u e . 
+ 
+   <  P r e s s   a n y   k e y   t o   c o n t i n u e 
+ 
+     c a c h e 
+ 
+   €  W i n d o w s   M e m o r y   D i a g n o s t i c   i s   c u r r e n t l y   u s i n g   t h e   % s   m e m o r y   m a p . 
+ 
+   м  W i n d o w s   M e m o r y   D i a g n o s t i c   w i l l   n o w   u s e   t h e   % s   m e m o r y   m a p .   T h e   n e w   m a p 
+ 
+ w i l l   n o t   b e   c r e a t e d   u n t i l   t e s t i n g   r e s u m e s . 
+ 
+   L  T h e   t e s t   s u i t e   h a s   b e e n   u p d a t e d . 
+ 
+       b a s i c 
+ 
+     s t a n d a r d 
+ 
+       e x t e n d e d 
+ 
+     Њ ( S )   S a v e s   t h e   c u r r e n t   t e s t   s u i t e   a n d   e x i t s . 
+ 
+ ( X )   E x i t s   w i t h o u t   s a v i n g   a n y   c h a n g e s . 
+ 
+ 
+ 
+ T h e   T A B   k e y   t o g g l e s   b e t w e e n   t h e   w i n d o w s .   U s e   t h e   U P   a n d   D O W N   a r r o w s   t o   s e l e c t 
+ 
+ t e s t s .   U s e   t h e   L E F T   a n d   R I G H T   a r r o w s   t o   m o v e   a   t e s t   t o   t h e   o p p o s i t e   w i n d o w . 
+ 
+ U s e   ( U )   a n d   ( D )   t o   m o v e   t e s t s   u p   a n d   d o w n   w i t h i n   a   w i n d o w .   T h e   c o l o r s 
+ 
+ i d e n t i f y 
+ 
+   (  A v a i l a b l e   T e s t s 
+ 
+   (  S e l e c t e d   T e s t s 
+ 
+     0  T h e   c o l o r s   i d e n t i f y 
+ 
+   @  ( P G U P / P G D N )   S c r o l l   ( X )   E x i t 
+ 
+   Ё  W i n d o w s   M e m o r y   D i a g n o s t i c   f o u n d   % d   e r r o r s .   T h e   e r r o r   d i s t r i b u t i o n 
+ 
+ b y   t e s t   i s : 
+ 
+     ¤  W i n d o w s   M e m o r y   D i a g n o s t i c   f o u n d   1   e r r o r .   T h e   e r r o r   d i s t r i b u t i o n 
+ 
+ b y   t e s t   i s : 
+ 
+     \  ( C )   R e s u m e   ( M )   M e n u   ( T A B / A R R O W )   N a v i g a t e 
+ 
+     \  ( P )   P a u s e   ( X )   E x i t   ( T )   R u n   e x t e n d e d   t e s t s 
+ 
+   \  ( P )   P a u s e   ( X )   E x i t   ( T )   R u n   s t a n d a r d   t e s t s 
+ 
+   (  R e b o o t   f a i l e d . 
+ 
+       P a s s 
+ 
+       T e s t 
+ 
+       C a c h e 
+ 
+     R e s u l t s 
+ 
+     A d d r e s s 
+ 
+     E x p e c t e d 
+ 
+       A c t u a l 
+ 
+       O f f 
+ 
+             T h e   m e m o r y   m a p   c o n t a i n e d   r a n g e s   t h a t   e x t e n d e d   a b o v e   f o u r   g i g a b y t e s . 
+ 
+   Ф          T h e   m e m o r y   m a p   c o n t a i n e d   m e m o r y   r a n g e s   t o o   n e a r   t h e   f o u r - g i g a b y t e 
+ 
+         b o u n d a r y   t o   b e   p r o c e s s e d . 
+ 
+     А          O n e   o r   m o r e   m e m o r y   m a p   e n t r i e s   w e r e   a l i g n e d   i n   a   w a y   t h a t   c o u l d   n o t 
+ 
+         b e   p r o c e s s e d . 
+ 
+     h  I n t e r n a l   e r r o r :   i n v a l i d   t r u n c a t i o n   c a u s e   c o d e . 
+ 
+     Ф W i n d o w s   M e m o r y   D i a g n o s t i c   ( W M D )   c o u l d   n o t   p r o c e s s   t h e   s y s t e m   m e m o r y   m a p .   T h i s 
+ 
+ o c c u r r e d   b e c a u s e   o f   d e f i c i e n c i e s   w i t h i n   W M D ,   n o t   t h e   c o m p u t e r .   A s   a   r e s u l t , 
+ 
+ n o t   a l l   o f   t h e   c o m p u t e r   m e m o r y   w i l l   b e   t e s t e d .     T h e   s p e c i f i c   p r o b l e m   w a s : 
+ 
+   x  P r e s s   ( C )   t o   c o n t i n u e .   P r e s s   a n y   o t h e r   k e y   t o   e x i t   W M D . 
+ 
+     A c t i v e 
+ 
+       S u c c e e d e d 
+ 
+     F a i l e d 
+ 
+     8  P a s s :   % d   T e s t :   % d   o f   % d 
+ 
+   x  I n t e r n a l   e r r o r :   t h e   t e s t   n u m b e r   s u b s c r e e n   i s   t o o   w i d e . 
+ 
+     <  W i n d o w s   M e m o r y   D i a g n o s t i c 
+ 
+   $  P a s s   p r o g r e s s 
+ 
+   $  T e s t   p r o g r e s s 
+ 
+   (  R a n g e   p r o g r e s s 
+ 
+       T e s t   n a m e 
+ 
+   ,  T e s t   d e s c r i p t i o n 
+ 
+       O n 
+ 
+       a n d 
+ 
+     t e s t s 
+ 
+     u n k n o w n 
+ 
+   0    S y s t e m   m e m o r y   m a p 
+ 
+      N o   e r r o r s   h a v e   b e e n   f o u n d .   T h e   m e m o r y   d i a g n o s t i c   w i l l   c o n t i n u e   r u n n i n g 
+ 
+ u n t i l   t h e   ( X )   k e y   i s   p r e s s e d   o r   t h e   m a c h i n e   i s   p o w e r e d   o f f . 
+ 
+   ”  W i n d o w s   M e m o r y   D i a g n o s t i c   i s   c u r r e n t l y   u s i n g   d e f a u l t   c a c h e   s e t t i n g s . 
+ 
+       W i n d o w s   M e m o r y   D i a g n o s t i c   i s   c u r r e n t l y   f o r c i n g   c a c h e   o n   f o r   a l l   t e s t s . 
+ 
+       W i n d o w s   M e m o r y   D i a g n o s t i c   i s   c u r r e n t l y   f o r c i n g   c a c h e   o f f   f o r   a l l   t e s t s . 
+ 
+   Ђ  W i n d o w s   M e m o r y   D i a g n o s t i c   w i l l   u s e   d e f a u l t   c a c h e   s e t t i n g s . 
+ 
+     €  W i n d o w s   M e m o r y   D i a g n o s t i c   w i l l   t u r n   o n   t h e   c a c h e   f o r   a l l   t e s t s . 
+ 
+   Њ  W i n d o w s   M e m o r y   D i a g n o s t i c   w i l l   t u r n   o f f   t h e   c a c h e   f o r   a l l   t e s t s . 
+ 
+     4  M e m o r y   c o n t r o l l e r :   % s 
+ 
+      B a n k   ` % s ' : 
+ 
+     $  N o t   p o p u l a t e d 
+ 
+   T  T h e   c o n t e n t s   o f   t h i s   s l o t   a r e   u n k n o w n 
+ 
+   0      M a n u f a c t u r e r :   % s 
+ 
+     $  P a r t   n u m b e r : 
+ 
+     P      P r o d u c t i o n   d a t e :   W e e k   % x ,   % s % 0 2 x 
+ 
+     (  S e r i a l   n u m b e r : 
+ 
+     (  F a s t   P a g e   D R A M 
+ 
+        S l o t   ` % s ' : 
+ 
+       T y p e : 
+ 
+   ё  W i n d o w s   M e m o r y   D i a g n o s t i c   f o u n d   % d   e r r o r s .   T h e   e r r o r   d i s t r i b u t i o n 
+ 
+ b y   m e m o r y   m o d u l e   i s : 
+ 
+   ґ  W i n d o w s   M e m o r y   D i a g n o s t i c   f o u n d   1   e r r o r .   T h e   e r r o r   d i s t r i b u t i o n 
+ 
+ b y   m e m o r y   m o d u l e   i s : 
+ 
+    W i n d o w s   M e m o r y   D i a g n o s t i c   ( W M D )   d e t e c t e d   a n   e r r o r .   H o w e v e r ,   W M D   c o u l d   n o t 
+ 
+ d e t e r m i n e   i n   w h i c h   m e m o r y   m o d u l e   t h i s   e r r o r   o c c u r r e d . 
+ 
+     Њ W i n d o w s   M e m o r y   D i a g n o s t i c   ( W M D )   d e t e c t e d   % d   e r r o r s .   W M D   c o u l d   n o t   d e t e r m i n e 
+ 
+ w h i c h   m e m o r y   m o d u l e   w a s   a s s o c i a t e d   w i t h   t h e s e   e r r o r s .   H o w e v e r ,   a l l   d e t e c t e d 
+ 
+ e r r o r s   o c c u r r e d   w i t h i n   t h e   s a m e   m o d u l e . 
+ 
+    W i n d o w s   M e m o r y   D i a g n o s t i c   ( W M D )   d e t e c t e d   % d   e r r o r s .   W M D   c o u l d   n o t   d e t e r m i n e 
+ 
+ w h i c h   m e m o r y   m o d u l e s   w e r e   a s s o c i a t e d   w i t h   t h e s e   e r r o r s . 
+ 
+       L R A N D 
+ 
+   T  A p p l i e s   r a n d o m   d a t a   t o   a l l   o f   m e m o r y . 
+ 
+     W M A T S + 
+ 
+     ґ  R u n s   a   n o r m a l   M A T S +   t e s t   u s i n g   d a t a   p a t t e r n s 
+ 
+ t a i l o r e d   f o r   t h e   m e m o r y   i n   t h i s   s y s t e m . 
+ 
+     W I N V C 
+ 
+   А  R u n s   a n   i n v e r s e   c o u p l i n g   t e s t   u s i n g   d a t a 
+ 
+ p a t t e r n s   t a i l o r e d   f o r   t h e   m e m o r y   i n   t h i s   s y s t e m . 
+ 
+       W S C H C K R 
+ 
+   Д  R u n s   a n   s i m p l e   c h e c k e r b o a r d   t e s t   u s i n g   d a t a 
+ 
+ p a t t e r n s   t a i l o r e d   f o r   t h e   m e m o r y   i n   t h i s   s y s t e m . 
+ 
+     W S t r i d e - 6 
+ 
+   ё  A p p l i e s   a   s t r i d e - 6   p a t t e r n   u s i n g   d a t a   p a t t e r n s 
+ 
+ t a i l o r e d   f o r   t h e   m e m o r y   i n   t h i s   s y s t e m . 
+ 
+     W C H C K R 3 
+ 
+   ё  A p p l i e s   a   3 x 3   c h e c k e r b o a r d   u s i n g   d a t a   p a t t e r n s 
+ 
+ t a i l o r e d   f o r   t h e   m e m o r y   i n   t h i s   s y s t e m . 
+ 
+     E R A N D 
+ 
+   ђ  M a k e s   s e v e r a l   p a s s e s   t h r o u g h   m e m o r y   a p p l y i n g 
+ 
+ r a n d o m   d a t a   p a t t e r n s . 
+ 
+   H  A b o u t   W i n d o w s   M e m o r y   D i a g n o s t i c 
+ 
+   М  W i n d o w s   M e m o r y   D i a g n o s t i c   v 0 . 4 
+ 
+ 
+ 
+ C o p y r i g h t   ( c )   M i c r o s o f t   C o r p o r a t i o n   2 0 0 3 .   A l l   r i g h t s   r e s e r v e d . 
+ 
+     H  W i n d o w s   M e m o r y   D i a g n o s t i c   v 0 . 5 . 
+ 
+   8  P r e s s   a n y   k e y   t o   e x i t . 
+ 
+     ,  B o o t   L i b r a r y   F r e e 
+ 
+   D  P a s s :   % d   o f   % d   T e s t :   % d   o f   % d 
+ 
+      M T _ M S G _ L A S T 
+ 
+   Ђ4   V S _ V E R S I O N _ I N F O     Ѕпю     
+  ]X  
+  ]X?                        Ю   S t r i n g F i l e I n f o   є   0 4 0 9 0 4 B 0   L   C o m p a n y N a m e     M i c r o s o f t   C o r p o r a t i o n   L   F i l e D e s c r i p t i o n     M e m o r y   D i a g n o s t i c   h $  F i l e V e r s i o n     1 0 . 0 . 2 2 6 2 1 . 1   ( W i n B u i l d . 1 6 0 1 0 1 . 0 8 0 0 )   8   I n t e r n a l N a m e   m e m d i a g . e x e   Ђ .  L e g a l C o p y r i g h t   ©   M i c r o s o f t   C o r p o r a t i o n .   A l l   r i g h t s   r e s e r v e d .   @   O r i g i n a l F i l e n a m e   m e m d i a g . e x e   j %  P r o d u c t N a m e     M i c r o s o f t ®   W i n d o w s ®   O p e r a t i n g   S y s t e m     > 
+  P r o d u c t V e r s i o n   1 0 . 0 . 2 2 6 2 1 . 1     D    V a r F i l e I n f o     $    T r a n s l a t i o n     	°яю< ? x m l   v e r s i o n = " 1 . 0 "   e n c o d i n g = " u n i c o d e " ? > 
+ 
+ < x s l : s t y l e s h e e t   x m l n s : x s l = " h t t p : / / w w w . w 3 . o r g / 1 9 9 9 / X S L / T r a n s f o r m "   x m l n s : o s x m l = " o s x m l "   v e r s i o n = " 1 . 0 " > 
+ 
+ < _ l o c D e f i n i t i o n > 
+ 
+             < _ l o c D e f a u l t   _ l o c = " l o c D a t a " / > 
+ 
+             < _ l o c T a g   _ l o c A t t r D a t a = " p a d - l e f t , p a d - r i g h t " > p < / _ l o c T a g > 
+ 
+             < _ l o c T a g   _ l o c A t t r D a t a = " h e i g h t , w i d t h " > t e x t a r e a < / _ l o c T a g > 
+ 
+             < _ l o c T a g   _ l o c A t t r D a t a = " m i n s i z e " > s e l e c t < / _ l o c T a g > 
+ 
+             < _ l o c T a g   _ l o c A t t r D a t a = " s i z e " > p r o g r e s s b a r < / _ l o c T a g > 
+ 
+             < _ l o c T a g   _ l o c A t t r D a t a = " s i z e , m a x l e n " > i n p u t < / _ l o c T a g > 
+ 
+             < _ l o c T a g   _ l o c A t t r D a t a = " t i p " > o p t i o n < / _ l o c T a g > 
+ 
+             < _ l o c T a g   _ l o c A t t r D a t a = " v a l u e " > o s x m l : u p d a t e < / _ l o c T a g > 
+ 
+ < / _ l o c D e f i n i t i o n > 
+ 
+ < x s l : t e m p l a t e   m a t c h = " m t - b e g i n " > 
+ 
+ < o s x m l : t e x t - m o d e - u i > 
+ 
+     < h e a d > 
+ 
+         < t i t l e   c o l o r = " X X B X R G B X " > < x s l : t e x t >                                                 W i n d o w s   M e m o r y   D i a g n o s t i c s   T o o l                                                 < / x s l : t e x t > < / t i t l e > 
+ 
+         < f o o t e r   c o l o r = " X X B X R G B X " > < x s l : t e x t >   F 1 = O p t i o n s                                                                                                                       E S C = E x i t   < / x s l : t e x t > < / f o o t e r > 
+ 
+         < m e t a   k e y = " F 1 "   a c t i o n = " o p t i o n s " / > 
+ 
+         < m e t a   k e y = " F 5 "   a c t i o n = " f a u l t " / > 
+ 
+         < m e t a   k e y = " E S C "   a c t i o n = " e x i t " / > 
+ 
+     < / h e a d > 
+ 
+     < b o d y   b a c k g r o u n d - c o l o r = " X X B X "   f o r e g r o u n d - c o l o r = " R G B X " > 
+ 
+     < b r / > 
+ 
+     < b r / > 
+ 
+     W i n d o w s   i s   c h e c k i n g   f o r   m e m o r y   p r o b l e m s . . .     
+ 
+     < b r / > 
+ 
+     < x s l : f o r - e a c h   s e l e c t = " @ d e f i n i t e " > 
+ 
+         T h i s   m i g h t   t a k e   s e v e r a l   m i n u t e s . 
+ 
+     < / x s l : f o r - e a c h > 
+ 
+     < b r / > 
+ 
+     < b r / > 
+ 
+     < x s l : f o r - e a c h   s e l e c t = " @ d e f i n i t e " > 
+ 
+         < x s l : t e x t > R u n n i n g   t e s t   p a s s   < / x s l : t e x t > < t e x t a r e a   n a m e = " c u r r e n t p a s s "   w i d t h = " 2 " >   _   < / t e x t a r e a > < x s l : t e x t >   o f   < / x s l : t e x t > < t e x t a r e a   n a m e = " t o t a l p a s s e s "   w i d t h = " 2 " >   _   < / t e x t a r e a > < x s l : t e x t > :   < / x s l : t e x t > < t e x t a r e a   n a m e = " p a s s p e r c e n t "   w i d t h = " 2 " >   _   < / t e x t a r e a > < x s l : t e x t > %   c o m p l e t e < / x s l : t e x t > 
+ 
+         < b r / > 
+ 
+         < x s l : t e x t > O v e r a l l   t e s t   s t a t u s :   < / x s l : t e x t > < t e x t a r e a   n a m e = " t e s t p e r c e n t "   w i d t h = " 2 " >   _   < / t e x t a r e a > < x s l : t e x t > %   c o m p l e t e < / x s l : t e x t >         
+ 
+     < / x s l : f o r - e a c h > 
+ 
+     < x s l : f o r - e a c h   s e l e c t = " @ i n f i n i t e " > 
+ 
+         < x s l : t e x t > R u n n i n g   t e s t   p a s s   < / x s l : t e x t > < t e x t a r e a   n a m e = " c u r r e n t p a s s "   w i d t h = " 8 " >   _ _ _ _ _ _ _   < / t e x t a r e a > 
+ 
+         < b r / > 
+ 
+         < x s l : t e x t > C u r r e n t   t e s t   p a s s   s t a t u s :   < / x s l : t e x t > < t e x t a r e a   n a m e = " p a s s p e r c e n t "   w i d t h = " 2 " >   _   < / t e x t a r e a > < x s l : t e x t > %   c o m p l e t e < / x s l : t e x t > 
+ 
+     < / x s l : f o r - e a c h > 
+ 
+     < b r / > 
+ 
+     < m e t e r   n a m e = " p r o g r e s s b a r "   b l a n k - c o l o r = " R G B X X X B X "   s i z e = " 8 0 " > 
+ 
+         < x s l : a t t r i b u t e   n a m e = " v a l u e " > 
+ 
+             < x s l : v a l u e - o f   s e l e c t = " @ p r o g r e s s " / > 
+ 
+         < / x s l : a t t r i b u t e > 
+ 
+     < / m e t e r > 
+ 
+ 
+ 
+     < p   p a d - r i g h t = " 3 " > 
+ 
+     < b r / > 
+ 
+     < b r / > 
+ 
+     < x s l : t e x t > S t a t u s :   < / x s l : t e x t > 
+ 
+     < b r / > 
+ 
+     < f o n t   f o r e g r o u n d - c o l o r = " R G X I " > 
+ 
+         < x s l : f o r - e a c h   s e l e c t = " @ s u c c e s s " > 
+ 
+             < t e x t a r e a   n a m e = " s t a t u s - p r o m p t "   h e i g h t = " 2 " > N o   p r o b l e m s   h a v e   b e e n   d e t e c t e d   y e t . < / t e x t a r e a > 
+ 
+         < / x s l : f o r - e a c h > 
+ 
+         < x s l : f o r - e a c h   s e l e c t = " @ f a i l u r e " > 
+ 
+             < t e x t a r e a   n a m e = " s t a t u s - p r o m p t "   h e i g h t = " 2 " > H a r d w a r e   p r o b l e m s   w e r e   d e t e c t e d .     T o   i d e n t i f y   a n d   r e p a i r   t h e s e   p r o b l e m s ,   y o u   w i l l   n e e d   t o   c o n t a c t   t h e   c o m p u t e r   m a n u f a c t u r e r . < / t e x t a r e a > 
+ 
+         < / x s l : f o r - e a c h > 
+ 
+         < b r / > 
+ 
+         < x s l : f o r - e a c h   s e l e c t = " @ d e f i n i t e " > 
+ 
+             < t e x t a r e a   n a m e = " s t a t u s - p r o m p t 2 "   h e i g h t = " 2 " > A l t h o u g h   t h e   t e s t   m a y   a p p e a r   i n a c t i v e   a t   t i m e s ,   i t   i s   s t i l l   r u n n i n g .     P l e a s e   w a i t   u n t i l   t e s t i n g   i s   c o m p l e t e . . . < / t e x t a r e a > 
+ 
+         < / x s l : f o r - e a c h > 
+ 
+         < x s l : f o r - e a c h   s e l e c t = " @ i n f i n i t e " > 
+ 
+             < t e x t a r e a   n a m e = " s t a t u s - p r o m p t 2 "   h e i g h t = " 2 " > A l t h o u g h   t h e   t e s t   m a y   a p p e a r   i n a c t i v e   a t   t i m e s ,   i t   i s   s t i l l   r u n n i n g . < / t e x t a r e a > 
+ 
+         < / x s l : f o r - e a c h > 
+ 
+     < / f o n t > 
+ 
+     < x s l : f o r - e a c h   s e l e c t = " @ d e f i n i t e " > 
+ 
+         < b r / > 
+ 
+         < b r / > 
+ 
+         < f o n t   f o r e g r o u n d - c o l o r = " R G B I " > 
+ 
+         W i n d o w s   w i l l   r e s t a r t   t h e   c o m p u t e r   a u t o m a t i c a l l y .   T e s t   r e s u l t s   w i l l   b e   d i s p l a y e d   a g a i n   a f t e r   y o u   l o g   o n . 
+ 
+         < / f o n t > 
+ 
+     < / x s l : f o r - e a c h > 
+ 
+     < x s l : f o r - e a c h   s e l e c t = " @ i n f i n i t e " > 
+ 
+         < b r / > 
+ 
+         < b r / > 
+ 
+         < f o n t   f o r e g r o u n d - c o l o r = " R G B I " > 
+ 
+         W i n d o w s   w i l l   c o n t i n u e   t o   c h e c k   f o r   m e m o r y   p r o b l e m s   u n t i l   y o u   c h o o s e   t o   e x i t . 
+ 
+         < / f o n t > 
+ 
+     < / x s l : f o r - e a c h > 
+ 
+     < / p > 
+ 
+     < / b o d y > 
+ 
+ < / o s x m l : t e x t - m o d e - u i > 
+ 
+ < / x s l : t e m p l a t e > 
+ 
+ 
+ 
+ < x s l : t e m p l a t e   m a t c h = " s t a t u s - b a d " > 
+ 
+     < o s x m l : u p d a t e   c o n t r o l = " s t a t u s - p r o m p t "   v a l u e = " H a r d w a r e   p r o b l e m s   w e r e   d e t e c t e d .     T o   i d e n t i f y   a n d   r e p a i r   t h e s e   p r o b l e m s ,   y o u   w i l l   n e e d   t o   c o n t a c t   t h e   c o m p u t e r   m a n u f a c t u r e r . " / > 
+ 
+ < / x s l : t e m p l a t e > 
+ 
+ 
+ 
+ < x s l : t e m p l a t e   m a t c h = " p r o g r e s s - u p d a t e " > 
+ 
+     < o s x m l : u p d a t e   c o n t r o l = " p r o g r e s s b a r "   v a l u e = " { @ v a l u e } " / > 
+ 
+ < / x s l : t e m p l a t e > 
+ 
+ 
+ 
+ < x s l : t e m p l a t e   m a t c h = " c u r r e n t p a s s - u p d a t e " > 
+ 
+     < o s x m l : u p d a t e   c o n t r o l = " c u r r e n t p a s s "   v a l u e = " { @ c u r r e n t p a s s } " / > 
+ 
+ < / x s l : t e m p l a t e > 
+ 
+ 
+ 
+ < x s l : t e m p l a t e   m a t c h = " t o t a l p a s s e s - u p d a t e " > 
+ 
+     < o s x m l : u p d a t e   c o n t r o l = " t o t a l p a s s e s "   v a l u e = " { @ t o t a l p a s s e s } " / > 
+ 
+ < / x s l : t e m p l a t e > 
+ 
+ 
+ 
+ < x s l : t e m p l a t e   m a t c h = " p a s s p e r c e n t - u p d a t e " > 
+ 
+     < o s x m l : u p d a t e   c o n t r o l = " p a s s p e r c e n t "   v a l u e = " { @ p a s s p e r c e n t } " / > 
+ 
+ < / x s l : t e m p l a t e > 
+ 
+ 
+ 
+ < x s l : t e m p l a t e   m a t c h = " t e s t p e r c e n t - u p d a t e " > 
+ 
+     < o s x m l : u p d a t e   c o n t r o l = " t e s t p e r c e n t "   v a l u e = " { @ t e s t p e r c e n t } " / > 
+ 
+ < / x s l : t e m p l a t e > 
+ 
+ 
+ 
+ < x s l : t e m p l a t e   m a t c h = " m t - o p t i o n s " > 
+ 
+ < o s x m l : t e x t - m o d e - u i > 
+ 
+     < h e a d > 
+ 
+         < t i t l e   c o l o r = " X X B X R G B X " > < x s l : t e x t >                                       W i n d o w s   M e m o r y   D i a g n o s t i c s   T o o l   -   O p t i o n s                                       < / x s l : t e x t > < / t i t l e > 
+ 
+         < f o o t e r   c o l o r = " X X B X R G B X " > < x s l : t e x t >   T A B = N e x t                                                 F 1 0 = A p p l y                                                     E S C = C a n c e l   < / x s l : t e x t > < / f o o t e r > 
+ 
+         < m e t a   k e y = " F 1 0 "   a c t i o n = " s u b m i t " / > 
+ 
+         < m e t a   k e y = " E S C "   a c t i o n = " e x i t " / > 
+ 
+     < / h e a d > 
+ 
+     < b o d y   b a c k g r o u n d - c o l o r = " X X B X "   f o r e g r o u n d - c o l o r = " R G B X " > 
+ 
+     < f o r m > 
+ 
+     < p   p a d - r i g h t = " 3 " > 
+ 
+     < b r / > 
+ 
+     T e s t   M i x : 
+ 
+     < b r / > 
+ 
+     < b r / > 
+ 
+     < / p > 
+ 
+     < p   p a d - r i g h t = " 6 6 " > 
+ 
+     < s e l e c t   n a m e = " t e s t m i x "   t i p - t a r g e t = " t e s t m i x - c t x "   a c t i v e - c o l o r = " X X B X R G B X "   r i g h t - j u s t i f y = " t r u e " > 
+ 
+ 
+ 
+         < x s l : f o r - e a c h   s e l e c t = " @ b a s i c " > 
+ 
+             < o p t i o n   s e l e c t e d = " t r u e "   v a l u e = " 2 "   t i p = " T h e   B a s i c   t e s t s   a r e   M A T S + ,   I N V C ,   a n d   S C H C K R   ( c a c h e   e n a b l e d ) . " > B a s i c < / o p t i o n > 
+ 
+             < o p t i o n   v a l u e = " 4 "   t i p = " T h e   S t a n d a r d   t e s t s   i n c l u d e   a l l   t h e   B a s i c   t e s t s ,   p l u s   L R A N D ,   S t r i d e 6   ( c a c h e   e n a b l e d ) ,   C H C K R 3 ,   W M A T S + ,   a n d   W I N V C . " > S t a n d a r d < / o p t i o n > 
+ 
+             < o p t i o n   v a l u e = " 8 "   t i p = " T h e   E x t e n d e d   t e s t s   i n c l u d e   a l l   t h e   S t a n d a r d   t e s t s   p l u s   M A T S +   ( c a c h e   d i s a b l e d ) ,   S t r i d e 3 8 ,   W S C H C K R ,   W S t r i d e - 6 ,   C H C K R 4 , 	 W C H C K R 3 ,   E R A N D ,   S t r i d e 6   ( c a c h e   d i s a b l e d ) ,   a n d   C H C K R 8 . " > E x t e n d e d < / o p t i o n > 
+ 
+         < / x s l : f o r - e a c h > 
+ 
+         < x s l : f o r - e a c h   s e l e c t = " @ s t a n d a r d " > 
+ 
+             < o p t i o n   v a l u e = " 2 "   t i p = " T h e   B a s i c   t e s t s   a r e   M A T S + ,   I N V C ,   a n d   S C H C K R   ( c a c h e   e n a b l e d ) . " > B a s i c < / o p t i o n > 
+ 
+             < o p t i o n   s e l e c t e d = " t r u e "   v a l u e = " 4 "   t i p = " T h e   S t a n d a r d   t e s t s   i n c l u d e   a l l   t h e   B a s i c   t e s t s ,   p l u s   L R A N D ,   S t r i d e 6   ( c a c h e   e n a b l e d ) ,   C H C K R 3 ,   W M A T S + ,   a n d   W I N V C . " > S t a n d a r d < / o p t i o n > 
+ 
+             < o p t i o n   v a l u e = " 8 "   t i p = " T h e   E x t e n d e d   t e s t s   i n c l u d e   a l l   t h e   S t a n d a r d   t e s t s   p l u s   M A T S +   ( c a c h e   d i s a b l e d ) ,   S t r i d e 3 8 ,   W S C H C K R ,   W S t r i d e - 6 ,   C H C K R 4 , 	 W C H C K R 3 ,   E R A N D ,   S t r i d e 6   ( c a c h e   d i s a b l e d ) ,   a n d   C H C K R 8 . " > E x t e n d e d < / o p t i o n > 
+ 
+         < / x s l : f o r - e a c h > 
+ 
+         < x s l : f o r - e a c h   s e l e c t = " @ e x t e n d e d " > 
+ 
+             < o p t i o n   v a l u e = " 2 "   t i p = " T h e   B a s i c   t e s t s   a r e   M A T S + ,   I N V C ,   a n d   S C H C K R   ( c a c h e   e n a b l e d ) . " > B a s i c < / o p t i o n > 
+ 
+             < o p t i o n   v a l u e = " 4 "   t i p = " T h e   S t a n d a r d   t e s t s   i n c l u d e   a l l   t h e   B a s i c   t e s t s ,   p l u s   L R A N D ,   S t r i d e 6   ( c a c h e   e n a b l e d ) ,   C H C K R 3 ,   W M A T S + ,   a n d   W I N V C . " > S t a n d a r d < / o p t i o n > 
+ 
+             < o p t i o n   s e l e c t e d = " t r u e "   v a l u e = " 8 "   t i p = " T h e   E x t e n d e d   t e s t s   i n c l u d e   a l l   t h e   S t a n d a r d   t e s t s   p l u s   M A T S +   ( c a c h e   d i s a b l e d ) ,   S t r i d e 3 8 ,   W S C H C K R ,   W S t r i d e - 6 ,   C H C K R 4 , 	 W C H C K R 3 ,   E R A N D ,   S t r i d e 6   ( c a c h e   d i s a b l e d ) ,   a n d   C H C K R 8 . " > E x t e n d e d < / o p t i o n > 
+ 
+         < / x s l : f o r - e a c h > 
+ 
+     < / s e l e c t > 
+ 
+     < / p > 
+ 
+     < p   p a d - r i g h t = " 3 " > 
+ 
+     < b r / > 
+ 
+       D e s c r i p t i o n :   < f o n t   f o r e g r o u n d - c o l o r = " R G B I " > < t e x t a r e a   n a m e = " t e s t m i x - c t x "   h e i g h t = " 3 " / > < / f o n t >   
+ 
+     < b r / > 
+ 
+     C a c h e : 
+ 
+     < b r / > 
+ 
+     < b r / > 
+ 
+     < / p > 
+ 
+     < p   p a d - r i g h t = " 6 6 " > 
+ 
+     < s e l e c t   n a m e = " c a c h e "   t i p - t a r g e t = " c a c h e - c t x "   a c t i v e - c o l o r = " X X B X R G B X "   r i g h t - j u s t i f y = " t r u e " > 
+ 
+         < x s l : f o r - e a c h   s e l e c t = " @ d e f c a c h e " > 
+ 
+             < o p t i o n   s e l e c t e d = " t r u e "   v a l u e = " 0 "   t i p = " U s e   t h e   d e f a u l t   c a c h e   s e t t i n g   o f   e a c h   t e s t . " > D e f a u l t < / o p t i o n > 
+ 
+             < o p t i o n   v a l u e = " 1 "   t i p = " T u r n   t h e   c a c h e   o n   f o r   a l l   t e s t s . " > O n < / o p t i o n > 
+ 
+             < o p t i o n   v a l u e = " 2 "   t i p = " T u r n   t h e   c a c h e   o f f   f o r   a l l   t e s t s . " > O f f < / o p t i o n > 
+ 
+         < / x s l : f o r - e a c h > 
+ 
+         < x s l : f o r - e a c h   s e l e c t = " @ c a c h e o n " > 
+ 
+             < o p t i o n   v a l u e = " 0 "   t i p = " U s e   t h e   d e f a u l t   c a c h e   s e t t i n g   o f   e a c h   t e s t . " > D e f a u l t < / o p t i o n > 
+ 
+             < o p t i o n   s e l e c t e d = " t r u e "   v a l u e = " 1 "   t i p = " T u r n   t h e   c a c h e   o n   f o r   a l l   t e s t s . " > O n < / o p t i o n > 
+ 
+             < o p t i o n   v a l u e = " 2 "   t i p = " T u r n   t h e   c a c h e   o f f   f o r   a l l   t e s t s . " > O f f < / o p t i o n > 
+ 
+         < / x s l : f o r - e a c h > 
+ 
+         < x s l : f o r - e a c h   s e l e c t = " @ c a c h e o f f " > 
+ 
+             < o p t i o n   v a l u e = " 0 "   t i p = " U s e   t h e   d e f a u l t   c a c h e   s e t t i n g   o f   e a c h   t e s t . " > D e f a u l t < / o p t i o n > 
+ 
+             < o p t i o n   v a l u e = " 1 "   t i p = " T u r n   t h e   c a c h e   o n   f o r   a l l   t e s t s . " > O n < / o p t i o n > 
+ 
+             < o p t i o n   s e l e c t e d = " t r u e "   v a l u e = " 2 "   t i p = " T u r n   t h e   c a c h e   o f f   f o r   a l l   t e s t s . " > O f f < / o p t i o n > 
+ 
+         < / x s l : f o r - e a c h > 
+ 
+     < / s e l e c t > 
+ 
+     < b r / > 
+ 
+     < / p > 
+ 
+     < p   p a d - r i g h t = " 3 " > 
+ 
+       D e s c r i p t i o n :   < f o n t   f o r e g r o u n d - c o l o r = " R G B I " > < t e x t a r e a   n a m e = " c a c h e - c t x "   h e i g h t = " 2 " / > < / f o n t > 
+ 
+     < b r / > 
+ 
+     P a s s   C o u n t   ( 0   -   1 5 ) :   < i n p u t   t y p e = " n u m e r i c "   n a m e = " p a s s c o u n t "   m a x l e n = " 2 "   b o r d e r - c o l o r = " R G B I "   s i z e = " 7 " > 
+ 
+         < x s l : a t t r i b u t e   n a m e = " d e f a u l t " > 
+ 
+             < x s l : v a l u e - o f   s e l e c t = " @ p a s s e s " / > 
+ 
+         < / x s l : a t t r i b u t e > 
+ 
+         < / i n p u t > 
+ 
+     < b r / > 
+ 
+     < b r / > 
+ 
+     D e s c r i p t i o n :   < f o n t   f o r e g r o u n d - c o l o r = " R G B I " > S e t   t h e   t o t a l   n u m b e r   o f   t i m e s   t h e   e n t i r e   t e s t   m i x   w i l l < / f o n t > 
+ 
+     < / p > 
+ 
+     < p   p a d - l e f t = " 1 3 "   p a d - r i g h t = " 3 " > < f o n t   f o r e g r o u n d - c o l o r = " R G B I " > r e p e a t   ( M a x   =   1 5 ) . 
+ 
+     < / f o n t > 
+ 
+     < / p > 
+ 
+     < / f o r m > 
+ 
+     < / b o d y > 
+ 
+ < / o s x m l : t e x t - m o d e - u i > 
+ 
+ < / x s l : t e m p l a t e > 
+ 
+ 
+ 
+ < x s l : t e m p l a t e   m a t c h = " m t - e n d " > 
+ 
+ < o s x m l : t e x t - m o d e - u i > 
+ 
+     < b o d y   b a c k g r o u n d - c o l o r = " X X X X "   f o r e g r o u n d - c o l o r = " R G B X " > 
+ 
+         < b r / > 
+ 
+     < / b o d y > 
+ 
+ < / o s x m l : t e x t - m o d e - u i > 
+ 
+ < / x s l : t e m p l a t e > 
+ 
+ 
+ 
+ < x s l : t e m p l a t e   m a t c h = " * | @ * | t e x t ( ) " / > 
+ 
+ 
+ 
+ < / x s l : s t y l e s h e e t > 
+ 
+ PADDINGXXPADDINGPADDh%    0‚%\	*†H†ч
+  ‚%M0‚%I10
+	`†He 0\
++‚7 N0L0
++‚70	  ўЂ 010
+	`†He  ¤m\тяыc6¶ЬцIЕ/`юK®~јИюІгКІЯmxL ‚
+е0‚0‚о 3  <‰Жj{E»Ѕ    <0
+	*†H†ч
+
+ 0Ѓ„1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1.0,U%Microsoft Windows Production PCA 20110
+210902182341Z
+220901182341Z0p1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation10UMicrosoft Windows0‚"0
+	*†H†ч
+ ‚ 0‚
+‚ Р-[іч2П_юИХИыL%ёЏлх:<"А$s…НА ’Sdеш‡pЋвjПЗц1­I‰Ґv)>—ќUљў«к¬bюйµ«С©Ђkх1lСhиfЫKѕ‘–°БцР<вНђґ¦®Ѓ53µlЯ§Ќ`pХГGх`\[“q№ҐyА†GlЕЄЅSжџ-1sуЎи8Ы†ъ[®э€еЎlЭ^Ё·1ў°Xrю~¤§Єё’U¤{џ2/Z‹чР:n&ІћУџ*{‰6л|0љp‘¬ю]
+ьрv®'Q)%‚ZAvы‡цmїЫyє$uiзІT:щЖЧљµ\†WИRѕљ%RS Чћшo Ј‚‚0‚~0U%0
++‚7
++ 0UH…:Cг@Ф«yЏxТТ‰ш2y80TUM0K¤I0G1-0+U
+$Microsoft Ireland Operations Limited10U
+229879+4675800U#0Ђ©)9ЋД—xНђщћOљб|UЇS0TUM0K0I G E†Chttp://www.microsoft.com/pkiops/crl/MicWinProPCA2011_2011-10-19.crl0a+ U0S0Q+ 0†Ehttp://www.microsoft.com/pkiops/certs/MicWinProPCA2011_2011-10-19.crt0Uя0 0
+	*†H†ч
+
+ ‚ iђEt,@8ЮЯћўѕ".‚§А«'ЋџF
+Ф58cHk\ЅфP®Z$31ЬІМ~¬и7чГZof1GЅ!ЈWaNjaкМ¦HjwЌLЧ€jЮЦbUtзЁћКґл
+№’•ДЭ_VVЂўТkтT^r|B<HШ`ЏЩЖюэО:fџ°ОuЌЖqтНЧCL?ќйE>U#ЩJx \‚ЉFе0Щх*Љwчh=+aя$8-@УЕµk(o»ЊuOi@Y q8^Р©8{RњїqяшњtcEPь38ќU†–¬аW‡NZх= §Z„ш8
+ЪГt?@}Џт|ћ0‚Ч0‚ї 
+a vV     0
+	*†H†ч
+
+ 0Ѓ€1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100
+111019184142Z
+261019185142Z0Ѓ„1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1.0,U%Microsoft Windows Production PCA 20110‚"0
+	*†H†ч
+ ‚ 0‚
+‚ Э»ўд.	гзЕч–iј !Ѕi33п­ЛTЂоѓ»Е „ЩчТ‹у8°«¤­-|byягJ?5 pгДзkањА6uйЉ1ЭЌpеЬ7µtF–([‡`#,їЬGҐgчQ'ћrл ¦Й№;S5|еУм'№‡ю№Й#	oЁF‘Бn–<AУЛЈ?]jMмi%(\6яэC
+”аґПЯВвВ['о'x0‹[*	k"‰S`,АhSємIуќaЊ…h	sD]}ўT+ЭyчП5]l+\Ојњ#‹onµ&Щ6ГOЦ'®№2;A’,бЗНwиЄTNч\
+‡eґCЁІаmwмZ$ъH Ј‚C0‚?0	+‚7 0U©)9ЋД—xНђщћOљб|UЇS0	+‚7
+ S u b C A0
+U†0Uя0я0U#0ЂХцVЛЏиў\bhС=”ђ[ЧОљД0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+ N0L0J+ 0†>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+	*†H†ч
+
+ ‚ ь|qQҐyВnІп9>ј<Rn+?sюЁhРH¦4MЉ–&о1FђayЦя8.EkфАе(ёЪЏЉЫ	ЧЗL
+6fjЊмЧђЁ¤›№в@26vДБZЖїдАкУ¬Гhпb¬ЭTlP0X¦л|ю”§NЋфм|†sWВR!s4ZуЈЉVИЪ 	нш‹гОф~Ћ®рц
+Љы?ЙrSёлѕcаг=1e°Ѓет¬Н¤џ=Ё±›ВBРђ„_Tя‰кєGђo°sNAџ@џ_еЎ*І‘sЉ!(рОЮs9_>«\`мЯЁУ	йфц–…¶Q€fGЌў°=Ѓ*hw»‘Lb{¶Б Зєz‡4Kbz™йКьОJ7Й-¤W|ю=ЬёZъЦДі…:кіЩnдi!7ЮЃСцugУ“W^)9Ио-бНдEs[РТОz«‚FXР^ќЃіgЇl5тје?$в5ў
+uцV™Фx,СлР€ќЄсЯє~,c·›#!ДщxlвX6+‘М¤Щт-єщ”ќ@нEсОЉ\k>«Уp*
+jа_GСХc
+2тЇЧ6*pZеBYqKWє~ѓЃр!<фБЕ№ђ“€E“†й± ™ѕЛЕ•¤]bЦ c Ѕuw}=уE№џ—џЛWЂo3©Пw¤bY~1‚к0‚ж0Ѓњ0Ѓ„1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1.0,U%Microsoft Windows Production PCA 20113  <‰Жj{E»Ѕ    <0
+	`†He  ‚0	*†H†ч
+	1
++‚70
++‚7
+10
++‚70/	*†H†ч
+	1" 7ОцжсаМбНлjЩ™:R¦ЈO 2:3
+vi0<
++‚7
+1.,ekI6Ux1f9X61MlLq+vYznMo2BM040ZcSSGTf3KPX7jY=0Z
++‚71L0J $Ђ" M i c r o s o f t   W i n d o w sЎ"Ђ http://www.microsoft.com/windows0
+	*†H†ч
+ ‚ ў»•V g°ЙБќ‰айeЬvЌЁoФп
+®»’|l&—u»§ aШ'yъПjvjp‹Ѕ7Va=cМО3!q¬рeег<чЂъ8Q?г С>ЪzУЁ?/™зьi™Кц·SmЭј¶ОMМШR[ОiFМ,¶J)8|Ы"fVФqЩ2vс	“енњ'фµ°*ыћo\ўtЁ]¦%ЯLrјЕ6gdУкz. ТІO©у6Ќ$Гv…Ш·cvІbЕВ=Ьzс!њYІ5¦єbJza”&Bs4
+«дИYB¶Jўё—yA¶[|{чл`ETџҐ|!АцьЬ`s]E>С
+]Їж°Ђ)Ў‚0‚
++‚71‚0‚ю	*†H†ч
+  ‚п0‚л10
+	`†He 0‚Y
+*†H†ч
+	 ‚H‚D0‚@
++„Y
+010
+	`†He  c=©ЛйxоKЎaо#нќ)ђв№mnЅFПE›tP@c¬blJ-.S20220506222635.006Z0Ђф ЃШ¤ЃХ0ЃТ1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1-0+U
+$Microsoft Ireland Operations Limited1&0$U
+Thales TSS ESN:3BD4-4B80-69C31%0#UMicrosoft Time-Stamp Service ‚e0‚ 0‚ь 3  ‰ґї†0„KЏ   ‰0
+	*†H†ч
+
+ 0|1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100
+211028192741Z
+230126192741Z0ЃТ1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1-0+U
+$Microsoft Ireland Operations Limited1&0$U
+Thales TSS ESN:3BD4-4B80-69C31%0#UMicrosoft Time-Stamp Service0‚"0
+	*†H†ч
+ ‚ 0‚
+‚ ЅWЕ‘fkЄeљгІјЪUуЌ; ўVFьтea’“’Nўт¬ўе\UaеІbDб+зОЗi°©•ЗК-8ЫЮ!AoIЗ„fџ^k№›WорѕЬыyp]И›ЌЗ*ґKнBЙh‘qТї‹з†›¬РЪЇFпrF'HKXЅsл§'ККС.°І°PЗ$!<ЦdX®ЩухFєFЉ,‡\(щw‡Ќ їЅю` /В]{Ё~/эr‚›јMБW5„гB
+>Ё«Ю №ьХ6I[†лQ¤'	›Х4\ЩђѕЪиҐЂзхKXс„44§§\ы]Ђ±ЭCГgїx І‹­b4k™щЋ7J	>тkЪ’§YљS¬yг’Х{)@Т@+[™–PMЙРdзж‡г9
+чє5њђЭПпсЮЋеа?M#ЊМfLВµ\ЭФ›"ЪRTX'ЊН‚8B}О љvуў¬`Л7ЋхЌ’6Њ)dЋВSvдЯЌУ@	чlюйЩ«K‹ЇйвguшааqЫ VYgЩОm•Н№а8Й-S$fЫ$R,	“P@є>^!!“lШІ[эpЋMЄчх
+Ј9ё.tж
+|ґьў?щШdb®LwЬђэјБґк°ю|4№ДјDА–ч`дy­nІF)A8ѕKЕ—ҐAьmзЊ%бeР @‰OzCѓАп Ј‚60‚20U—oіGZx Ђ‚а:¬r¤­щ{P0U#0Ђџ§] ^b]ѓфеТe§S5йr0_UX0V0T R P†Nhttp://www.microsoft.com/pkiops/crl/Microsoft%20Time-Stamp%20PCA%202010(1).crl0l+ `0^0\+ 0†Phttp://www.microsoft.com/pkiops/certs/Microsoft%20Time-Stamp%20PCA%202010(1).crt0Uя0 0U%0
++ 0
+	*†H†ч
+
+ ‚ Ћґ·iYB8+ Л.·Ъ*ІБч`кl
+)c8Х6Ћа™~°|OЈќ¶єнЖ) ЈљDV­бн•ьІцC¤мµљЗy7‘пµч­}ё{Ё}
+y]—9h7ф§ю¦MЖjмVe—!ФђРЌП|шзeЈЁZ(t
+»x	_ЮЧЦ\нgЧ<Ц’ЙЭж3ИR+7ЮџЇ‘Џ,НЫЂґ'pсT„Џ o–Ґ=@21іА¦ы4‚›ќя#сГхр
+9"чњђ](‡W0лtXюуКлbГaЪbнiЖШжпћ ЦT«p‹Ив1гЩГЅ«~З
+пП>]µк©Qtjќё©Њ
+ч
+§SxGlЗ>(±г«=‡…°qЦ$Rz+пЄ~ф)7‰¦ћkш<R©·’ЛI±!CЄюPS
+IT_n­тїџr)(|«цЭaлµw·єХNА}c:Сj(¤›>ј+‘ЦvЯL©Bс=иъљYРґjђжћг®ѕP¤XРњVµЪМs›З”v_ћЁЪВ?С°Н’йџkФэ
+v57>Г`·Й’rсl®4жПeЋ§мJ›iХ!х{выХ%ѓ,Н±яS,±А1µмџ
+–Ѓµ Ф.|m}-­bо(j‘^Ѓрњ‡SЅбЬaРб(дђЅcѕZ–“(uЈ
+f‹Tк<ЎІ€O!~qCQяДЙ\8№0‚ q0‚Y 3   Езkћ›I™     0
+	*†H†ч
+
+ 0Ѓ€1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1200U)Microsoft Root Certificate Authority 20100
+210930182225Z
+300930183225Z0|1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100‚"0
+	*†H†ч
+ ‚ 0‚
+‚ дб¦Lзґr!
+yўЛЧ$yЅХ‚Уэоњ  Т©lNuИК5WцlJавЅ№>`3я\OЗfч•SqZв~JZюё6g…F#µЌПw2Аи`}jRѓD·¦ЋFk уЕvх†PЬБDИq\Q17 
+8nЌнЧШ&S|9azДЄэriЇ«¬ц6ѕ5&dЪ;є{3­Ђ[~ЊќRю¶иb%ЬjП]фюЋSПЦм…VMпЭјЌ¤г‘ЏІ9,Qњйpi
+К6-pЋ1И5(Ѕгґ‡$ГаЙЏ~µTЏЬъUmh;љFЅн¤®z)7¬ЛлѓEзFnК2ХА†0\O,вbІН№вЌ€д–¬J»ѕq©[g`Юш’‘=э Пs}AљFuНД_4Э‰ЦэҐ }~ьЩћEЯ¶r/Ы}_ЂєЫЄ~6м6Lц+nЁQиїЈСs¦M7t”4‚рт·Gн§и™|?LЫЇ^ВуХШs=CNБ39LЋјBh.к„QFвСЅjZasКgў^Ч(vв3rЧ§ рВъ
+ЧcoЙ6d‹[ ¦ѓ!]_0t‘””Ш№Pщ
+‰aу65„GЫЬСэІФЕkц\RQ]Ы%єЇPzlЕrпЌщRД…“А<Ы7З?x«E¶х‡^ЪЏћriЖ®{··>jв.­ Ј‚Э0‚Щ0	+‚7 0#	+‚7*§RюdДљѕ‚‘<F5)Пя/о0Uџ§] ^b]ѓфеТe§S5йr0\U U0S0Q+‚7Lѓ}0A0?+ 3http://www.microsoft.com/pkiops/Docs/Repository.htm0U%0
++ 0	+‚7
+ S u b C A0
+U†0Uя0я0U#0ЂХцVЛЏиў\bhС=”ђ[ЧОљД0VUO0M0K I G†Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z+ N0L0J+ 0†>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+	*†H†ч
+
+ ‚ ќU}ь*­б,g1$[бћrKь©oк\¶>NGdx±“—=13µ9ЧВq6?Ъdl|Рu9m»1дВЏыlСЎ”"ойfg:SMЭє¶xШ6.њ©‚V °ѕ‰иiає	о{Яjoѕ)ЛnШ?HuЩЮm‚хm#TдxSu$W№ЭџуЋ=ЖуhЯeц¤VЄч•¶(U'Р$Ѕ@ ї¶]='а@–8¬чщ)‰Гј°T…Bіьћ‹‰зр
+jЃВЃBRuЉ6ВГas.,k{n?,	xй‘І©[ЯIЈtјм‘ЂТ=жJ>f;O»†ъ2Щ–фЏц‘цОЖtэцLro«u0Е4°zШPю
+XЭ@<ЗTmќctH,±NG-Бqїdщ$ѕsmКЋ	ЅіWITdЩsЧ[DЋZ‘k
+џ¤(Ьg($є8Kљnы!TkjEG©с·®Ии‰^OќТРLvµWT	±iD~|Ўalsю
+»мAf=iэЛБAI~~“ѕЛш;д·їґО>Ґ1Q„јїБ‚ў{‰ЌpюзµР(‰
+Џ6ЪєLщ›я
+й4ш$5g+а
+ёжЊ™Цб"кр'B=%”жtt[jСћ>н~ 13}јЛй{ї8pDСђсИ«:Љ:bЩpcSMЌо‚mҐБqjґU3XіЎpfтЎ‚Ф0‚=0‚ ЎЃШ¤ЃХ0ЃТ1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1-0+U
+$Microsoft Ireland Operations Limited1&0$U
+Thales TSS ESN:3BD4-4B80-69C31%0#UMicrosoft Time-Stamp Serviceў#
+0 + !Ґ	­дzЬћ№м»l“iZC.€' Ѓѓ0ЃЂ¤~0|1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20100
+	*†H†ч
+  ж Я0"20220507042607Z20220508042607Z0t0:
++„Y
+1,0*0
+ ж Я 0  ы0  r0
+ ж!T_ 06
++„Y
+1(0&0
++„Y
+ 
+0  Ў Ў
+0 † 0
+	*†H†ч
+ ЃЃ ‹Mњjdпs’Aњ«ЕE€ѓpF›3a[*пџ‹uюїO§ТЄz9 
+—yд­о¬EhЂ‚пFtј0 iЯ§”шмagA сGs·ОКу•мјfNшВйц—
+
+w©+юЉс|Я_MвГЂvхVЪеЧТ!l
+Пгl:Ў Eѕ1‚
+0‚	0Ѓ“0|1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  ‰ґї†0„KЏ   ‰0
+	`†He  ‚J0	*†H†ч
+	1
+
+*†H†ч
+	0/	*†H†ч
+	1" Ю	›ќ1№mќVQeРЊВвшЖ°±Кџњт”yЙГјЦ0Ѓъ
+*†H†ч
+	/1Ѓк0Ѓз0Ѓд0ЃЅ fwG1ЬPWUln•‡91кXLњЅДI›·лЩRdьЏE0Ѓ0ЃЂ¤~0|1
+0	UUS10U
+Washington10U  Redmond10U
+Microsoft Corporation1&0$UMicrosoft Time-Stamp PCA 20103  ‰ґї†0„KЏ   ‰0" {ИДљ5Т%3pЄ(Т»®~щҐl”ІКX›нўxУ1I0
+	*†H†ч
+
+ ‚ Ё^ЏIо7%ЌЕSшL”фo°ьЃS¶4bLџu°©_GпЯџ—бў]XЩvqEлЅ0µеќ)LњљхdS'Љhє3рP•€yхЭq%§…v6Ч:ЬЏ"NГцћ>Ш-ПJ­±N
+:Я1РзД4‚^Jla}”іВXў!ЅKшЉп—ЮГФ<f8Ч	·З—sіZЦЅ[–зј}ъ2ЁС
+?}МьШ9чAБwє‰’-ЪҐH«БАйуrW§‘б:рЬмх·†оеЯZЃs5xЉ”ґ|РІъўй‘еЋзн«rEЙТdАу}№»ОJh€ќ·жЪјђ?­~cРrVмO;os_vS0ЖЦЖ›†ЫєЈ<3иъUOп¦2ф}э4/‡ы}сVhiм‹Т)Ыg/7}ц9‰кz}уJ/з@ЪnСu–&чµЉб¦Лд-ч\&«
+ќ Sq~н«~ФQyд‰щКз€qXзV»оСa]Јфю_ M‹DјaГ»рl[Ѕ<Мo®ґuu"µ‚`З•¦ЪW°b$#Ы‘хўCUъѓ§а№rхмЙЃ! ў.п&ЉгрOДфВz]RЎsBZЖ‚~аёмКыj@ОщC#@ЗЈhМЂpОе7ЛЊ,A»ХЊ~Ещ }‰nT’ю¬«џS*Ќ

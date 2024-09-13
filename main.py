@@ -206,6 +206,4 @@ while True:
         elif level == 3:
             world = World(room3)
 
-    print(mouse.get_pos())
-
     display.update()
