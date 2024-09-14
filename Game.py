@@ -197,6 +197,24 @@ class start:
             self.a = True
 
 
+class termux:
+    def __init__(self):
+        self.a = False
+
+    def Termux(self, rang):
+        if not self.a:
+            screen = pygame.display.set_mode((1200, 1000))
+
+            for frame in range(rang):
+                screen.fill((0, 0, 0))
+                a = pygame.image.load(f"frames/termux/ezgif-frame-0{frame}.jpg")
+                screen.blit(a, (0, 0))
+                pygame.display.flip()
+                pygame.time.delay(40)
+
+            self.a = True
+
+
 door_group = pygame.sprite.Group()
 locker_group = pygame.sprite.Group()
 
@@ -204,10 +222,11 @@ world = World(room)
 player = Player(580, 800)
 
 st = start()
+tmx = termux()
 
 guard = False
 
-stage = "start"
+stage = "termux"
 i = 0
 run = True
 while True:
@@ -228,6 +247,10 @@ while True:
 
     if not guard:
         walk.set_volume(0)
+
+    if stage == "termux":
+        tmx.Termux(100)
+        stage = "start"
 
     if stage == "start":
         st.Start(46)
