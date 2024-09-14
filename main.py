@@ -6,6 +6,7 @@ pygame.font.init()
 pygame.init()
 
 walk = pygame.mixer.Sound("snd/walk_entity.flac")
+start_snd = pygame.mixer.Sound("snd/start.flac")
 fnt = "fnt/ModernDOS9x16.ttf"
 door = "img/Doorright.png"
 
@@ -176,15 +177,37 @@ class Locker(pygame.sprite.Sprite):
         self.rect.y = y
 
 
+class start:
+    def __init__(self):
+        self.a = False
+
+    def Start(self, rang):
+        if not self.a:
+            screen = pygame.display.set_mode((540, 540))
+            start_snd.play()
+
+            for frame in range(rang):
+                screen.fill((0, 0, 0))
+                a = pygame.image.load(f"frames/start/ezgif-frame-0{frame}.jpg")
+                pygame.transform.scale(a, (1200, 1000))
+                screen.blit(a, (0, 0))
+                pygame.display.flip()
+                pygame.time.delay(40)
+
+            self.a = True
+
+
 door_group = pygame.sprite.Group()
 locker_group = pygame.sprite.Group()
 
 world = World(room)
 player = Player(580, 800)
 
+st = start()
+
 guard = False
 
-stage = "room"
+stage = "start"
 i = 0
 run = True
 while True:
@@ -205,6 +228,11 @@ while True:
 
     if not guard:
         walk.set_volume(0)
+
+    if stage == "start":
+        st.Start(46)
+        screen = pygame.display.set_mode((1200, 1000))
+        stage = "room"
 
     if stage == "room":
         screen.fill((0, 0, 0))
