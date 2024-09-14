@@ -5,7 +5,7 @@ pygame.init()
 pygame.font.init()
 pygame.init()
 
-walk = pygame.mixer.Sound("snd/snow_step_dry-01.flac")
+walk = pygame.mixer.Sound("snd/walk_entity.flac")
 fnt = "fnt/ModernDOS9x16.ttf"
 door = "img/Doorright.png"
 
@@ -16,6 +16,9 @@ dos_small = pygame.font.Font(fnt, 20)
 dos_smaller = pygame.font.Font(fnt, 10)
 
 screen = pygame.display.set_mode((1200, 1000))
+pygame.display.set_caption(" ")
+
+clock = pygame.time.Clock()
 
 tile_size = 100
 
@@ -89,13 +92,13 @@ class Player:
 
         keys = pygame.key.get_pressed()
         if keys[pygame.K_a]:
-            dx -= 0.51
+            dx -= 5
         if keys[pygame.K_d]:
-            dx += 0.51
+            dx += 5
         if keys[pygame.K_w]:
-            dy -= 0.51
+            dy -= 5
         if keys[pygame.K_s]:
-            dy += 0.51
+            dy += 5
         if not keys[pygame.K_a] and not keys[pygame.K_d]:
             dx = 0
         if not keys[pygame.K_w] and not keys[pygame.K_s]:
@@ -190,8 +193,9 @@ while True:
             walk.set_volume(0)
             walk.play()
         i += 1
-        walk.set_volume(walk.get_volume() + 0.065)
-        if i == 1000:
+        walk.set_volume(walk.get_volume() + 0.0079)
+        print(walk.get_volume())
+        if i == 270:
             if stage != "locker":
                 stage = "found"
             else:
@@ -217,6 +221,8 @@ while True:
             elif e.type == pygame.KEYDOWN and e.key == pygame.K_SPACE and pygame.sprite.spritecollide(player, locker_group, False):
                 print("Lock")
                 stage = "locker"
+            elif e.type == pygame.KEYDOWN and e.key == pygame.K_g:
+                guard = True
 
         if pygame.sprite.spritecollide(player, locker_group, False):
             Enter_Locker = dos.render("Press space to enter the locker.", True, (175, 175, 175))
@@ -251,4 +257,5 @@ while True:
 
         screen.blit(locker, (0, 0))
 
+    clock.tick(60)
     pygame.display.update()
