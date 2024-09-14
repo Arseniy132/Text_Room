@@ -183,6 +183,10 @@ class start:
 
     def Start(self, rang):
         if not self.a:
+            pos_x = 1920 / 2 - 540 / 2
+            pos_y = 1080 - 540
+            os.environ['SDL_VIDEO_WINDOW_POS'] = '%i,%i' % (pos_x, pos_y)
+            os.environ['SDL_VIDEO_CENTERED'] = '0'
             screen = pygame.display.set_mode((540, 540))
             start_snd.play()
 
@@ -203,6 +207,10 @@ class termux:
 
     def Termux(self, rang):
         if not self.a:
+            pos_x = 1920 / 2 - 1200 / 2
+            pos_y = 1080 - 1000
+            os.environ['SDL_VIDEO_WINDOW_POS'] = '%i,%i' % (pos_x, pos_y)
+            os.environ['SDL_VIDEO_CENTERED'] = '0'
             screen = pygame.display.set_mode((1200, 1000))
 
             for frame in range(rang):
@@ -237,13 +245,13 @@ while True:
         i += 1
         walk.set_volume(walk.get_volume() + 0.0079)
         print(walk.get_volume())
-        if i == 270:
+        if i == 180:
             if stage != "locker":
                 stage = "found"
+                guard = False
             else:
                 guard = False
                 i = 0
-                walk.fadeout(3)
 
     if not guard:
         walk.set_volume(0)
@@ -254,6 +262,10 @@ while True:
 
     if stage == "start":
         st.Start(46)
+        pos_x = 1920 / 2 - 540 / 2
+        pos_y = 1080 - 540
+        os.environ['SDL_VIDEO_WINDOW_POS'] = '%i,%i' % (pos_x, pos_y)
+        os.environ['SDL_VIDEO_CENTERED'] = '0'
         screen = pygame.display.set_mode((1200, 1000))
         stage = "room"
 
@@ -280,7 +292,7 @@ while True:
             screen.blit(Enter_Locker, (125, 800))
 
         if pygame.sprite.spritecollide(player, door_group, False):
-            if level != 0 or level != 1:
+            if level != 0 and level != 1:
                 guard_go = randint(1, 6)
                 if guard_go == 1:
                     print("hide")
