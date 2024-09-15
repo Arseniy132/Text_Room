@@ -252,7 +252,7 @@ class termux:
     def __init__(self):
         self.a = False
 
-    def Termux(self, rang):
+    def Terminal(self, rang):
         if not self.a:
             pos_x = 1920 / 2 - 1200 / 2
             pos_y = 1080 - 1000
@@ -305,7 +305,7 @@ while True:
         walk.set_volume(0)
 
     if stage == "termux":
-        tmx.Termux(100)
+        tmx.Terminal(100)
         stage = "start"
 
     if stage == "start":
